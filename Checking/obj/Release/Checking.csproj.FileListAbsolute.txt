@@ -1,0 +1,11 @@
+D:\C#\Checking\Checking\bin\Release\Code_Checker.exe.config
+D:\C#\Checking\Checking\bin\Release\Code_Checker.exe
+D:\C#\Checking\Checking\bin\Release\Code_Checker.pdb
+D:\C#\Checking\Checking\obj\Release\Checking.Code_Checker.resources
+D:\C#\Checking\Checking\obj\Release\Checking.Preview_window.resources
+D:\C#\Checking\Checking\obj\Release\Code_Checker.Properties.Resources.resources
+D:\C#\Checking\Checking\obj\Release\Checking.csproj.GenerateResource.cache
+D:\C#\Checking\Checking\obj\Release\Checking.csproj.CoreCompileInputs.cache
+D:\C#\Checking\Checking\obj\Release\Code_Checker.exe
+D:\C#\Checking\Checking\obj\Release\Code_Checker.pdb
+D:\C#\Checking\Checking\obj\Release\Checking.csprojAssemblyReference.cache
